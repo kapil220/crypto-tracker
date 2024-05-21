@@ -1,0 +1,16 @@
+.list-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 3rem;
+  gap: 1.5rem;
+  margin: 1.5rem 2rem;
+  border-bottom: 1px solid var(--gray);
+}
+.list-row td {
+  text-align: left;
+  width: 18%;
+}
+.td-image {
+  width: 3rem;
+}
