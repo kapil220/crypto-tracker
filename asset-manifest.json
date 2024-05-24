@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-tracker/static/css/main.04af7c14.css",
+    "main.js": "/crypto-tracker/static/js/main.2f9c4075.js",
+    "static/media/iphone.png": "/crypto-tracker/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/crypto-tracker/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/crypto-tracker/index.html",
+    "main.04af7c14.css.map": "/crypto-tracker/static/css/main.04af7c14.css.map",
+    "main.2f9c4075.js.map": "/crypto-tracker/static/js/main.2f9c4075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04af7c14.css",
+    "static/js/main.2f9c4075.js"
+  ]
+}
